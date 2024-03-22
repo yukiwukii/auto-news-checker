@@ -8,7 +8,7 @@ First, we sourced our [dataset](https://www.kaggle.com/datasets/saurabhshahane/f
 3. Passive Aggressive Classifier
 4. Support Vector Machine
 
-From our evaluation, we found that support vector machine model works best. Therefore, we will be using this model for our Chrome extension. The detailed workthrough on how we trained our model can be found here.
+From our evaluation, we found that support vector machine model works best. Therefore, we will be using this model for our Chrome extension. The detailed workthrough on how we trained our model can be found [here](https://github.com/yukiwukii/auto-news-checker/blob/main/machine-learning-model.ipynb).
 
 ## Contributors
 - 
