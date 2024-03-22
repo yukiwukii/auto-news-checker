@@ -11,4 +11,4 @@ First, we sourced our [dataset](https://www.kaggle.com/datasets/saurabhshahane/f
 From our evaluation, we found that support vector machine model works best. Therefore, we will be using this model for our Chrome extension. The detailed workthrough on how we trained our model can be found [here](https://github.com/yukiwukii/auto-news-checker/blob/main/machine-learning-model.ipynb).
 
 ## Contributors
-- 
+- Yongjian and Ali - trained and tested the models
